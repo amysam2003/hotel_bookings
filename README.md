@@ -48,7 +48,7 @@ The target variable is: **is_canceled**
 
 ## Machine Learning Models
 
-To Train and Test the Data, following Machine Learning Algorithms were implemented:
+To Train and Test the Data, following Machine Learning Models were implemented:
 
 (i)Decision Tree
 (ii)K-Nearest Neighbors (KNN)
@@ -59,7 +59,7 @@ To Train and Test the Data, following Machine Learning Algorithms were implement
 
 ## Model Evaluation
 
-THe Machine Learning Models were evaluated using:
+The Machine Learning Models were evaluated using:
 
 (i)Accuracy Score
 (ii)Confusion Matrix
