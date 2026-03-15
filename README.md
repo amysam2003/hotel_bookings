@@ -57,6 +57,10 @@ To Train and Test the Data, following Machine Learning Models were implemented:
 (v)Random Forest
 (vi)Support Vector Machine (SVM)
 
+## Hyperparameter Tuning
+
+Here, Hyperparameter Tuning is used to identify the best combination of settings for the best and highest accuracy. Using this, the best and highest accuracy possible for this is 0.8095.
+
 ## Model Evaluation
 
 The Machine Learning Models were evaluated using:
