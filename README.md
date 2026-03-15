@@ -22,8 +22,8 @@ The dataset contains information about hotel bookings including:
 
 The target variable is: **is_canceled**
 
-** 0 => Booking is confirmed**
-** 1 =? Booking is cancelled**
+ 0 => Booking is confirmed
+ 1 =>Booking is cancelled
 
 ## Data Exploration
 
